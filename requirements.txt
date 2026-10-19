@@ -1,0 +1,10 @@
+# Versions will be pinned once the team confirms the stack runs on every laptop.
+gradio>=4.0
+ollama>=0.3
+chromadb>=0.5
+sentence-transformers>=3.0
+pydantic>=2.0
+pyyaml>=6.0
+pandas>=2.0
+pytest>=8.0
+bandit>=1.7

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Generated / local data
+kb/chroma/
+app/approval/*.db
+app/monitoring/*.jsonl
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
